@@ -1,0 +1,9 @@
+[package]
+name = "maelstrom"
+version = "0.0.0"
+authors = ["Stephan Luther <kvsari@gmail.com>"]
+license = "MIT"
+description = "An interpretation of the disruptor pattern."
+repository = "https://github.com/kvsari/maelstrom"
+
+[dependencies]
